@@ -15,7 +15,7 @@ React Native Concepts
 
 ---
 
-The forth challenge for training important **React Native** concepts. Part of [Rocketseat] GoStack Bootcamp training program.
+The fourth challenge for training important **React Native** concepts. Part of [Rocketseat] GoStack Bootcamp training program.
 
 ## Application
 
